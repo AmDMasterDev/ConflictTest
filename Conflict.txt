@@ -4,3 +4,5 @@ Conflict File Created by AMDMaster - Origin
 Conflict File Test
 
 Hi ~ User AMDMaster !
+
+Hi ~ User User1 ! Changes made!!
